@@ -1,0 +1,39 @@
+{
+    "SkillList": [
+        {
+            "SkillName": "AttFloatAttack",
+            "FormulaName": "CombatFormulaNormal",
+            "Arguments": []
+        },
+        {
+            "SkillName": "AttAttack",
+            "FormulaName": "CombatFormulaNormal",
+            "Arguments": []
+        },
+        {
+            "SkillName": "AtkFloatAttack",
+            "FormulaName": "CombatFormulaNormal",
+            "Arguments": []
+        },
+        {
+            "SkillName": "AtkAttack",
+            "FormulaName": "CombatFormulaNormal",
+            "Arguments": []
+        },
+        {
+            "SkillName": "ComboTestSkill",
+            "FormulaName": "CombatFormulaNormal",
+            "Arguments": []
+        },
+        {
+            "SkillName": "ComboTestSkill2",
+            "FormulaName": "CombatFormulaNormal",
+            "Arguments": []
+        },
+        {
+            "SkillName": "TransferSkillPart1",
+            "FormulaName": "CombatFormulaNormal",
+            "Arguments": []
+        }
+    ]
+}

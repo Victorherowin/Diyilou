@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{29E3E4ED-C4CA-A558-312D-A544CA0E68D6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Base/EntityBase.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Other/TmpWin.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BossAI/BossAttackState.cs" Line="8" Column="2" />
+      <File FileName="Assets/Scripts/Skills/Context/SkillContext.cs" Line="15" Column="52" />
+      <File FileName="Assets/Scripts/Interface/Skill/ISkill.cs" Line="15" Column="27" />
+      <File FileName="Assets/Scripts/AI/ChaseState.cs" Line="17" Column="51" />
+      <File FileName="Assets/Scripts/AI/Enemy.cs" Line="22" Column="9" />
+      <File FileName="Assets/Scripts/BossAI/BossEnemy.cs" Line="34" Column="13" />
+      <File FileName="Assets/Scripts/Skills/Monster/MonsterSkill1Attack.cs" Line="15" Column="10" />
+      <File FileName="Assets/Scripts/Skills/Monster/MonsterAttAttack.cs" Line="31" Column="12" />
+      <File FileName="Assets/Scripts/Skills/SkillBase.cs" Line="14" Column="35" />
+      <File FileName="Assets/Scripts/AnimationState/TriggerSkillEffect.cs" Line="40" Column="1" />
+      <File FileName="Assets/Scripts/Base/EntityBase.cs" Line="25" Column="9" />
+      <File FileName="Assets/Scripts/UI/PlayUi.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AI/FSMSystem.cs" Line="8" Column="88" />
+      <File FileName="Assets/Scripts/UI/TextList.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Other/ShakeCamera.cs" Line="10" Column="5" />
+      <File FileName="Assets/Scripts/Other/CameraPlayerTrace.cs" Line="11" Column="41" />
+      <File FileName="Assets/Scripts/Player/PlayerEntity.cs" Line="117" Column="75" />
+      <File FileName="Assets/Scripts/Skills/Formula/FormulaConfigJson.cs" Line="12" Column="50" />
+      <File FileName="Assets/Scripts/PathManager.cs" Line="65" Column="27" />
+      <File FileName="Assets/Scripts/Other/MovePoint.cs" Line="8" Column="20" />
+      <File FileName="Assets/Scripts/Other/MoveManager.cs" Line="19" Column="38" />
+      <File FileName="Assets/Scripts/Other/TestTalk.cs" Line="108" Column="32" />
+      <File FileName="Assets/Scripts/Other/ShootTrajectory.cs" Line="32" Column="10" />
+      <File FileName="Assets/Standard Assets/Utility/TimedObjectActivator.cs" Line="24" Column="22" />
+      <File FileName="Assets/Scripts/AI/FSMState.cs" Line="14" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.First-floor PreferredExecutionTarget="Unity.Editor" />
+</Properties>

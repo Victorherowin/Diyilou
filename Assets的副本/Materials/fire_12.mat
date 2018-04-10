@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: fire_12
+  m_Shader: {fileID: 4800000, guid: 37f8d36ad04fc7d4288b50dd2e4d64b0, type: 3}
+  m_ShaderKeywords: _FOG _TEX_BLEACH_ON
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Distortion_Tex_01:
+        m_Texture: {fileID: 2800000, guid: 94b3e78aaf452de498fe5ea3124d5b0d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 3aa68833a5a0200479736d46f92eea60, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Main_Texture:
+        m_Texture: {fileID: 2800000, guid: ba914980f6ee6b44a83713080bca4d75, type: 3}
+        m_Scale: {x: 0.74, y: -0.6}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_Texture:
+        m_Texture: {fileID: 2800000, guid: 77645e813e2fcb74ebc0e13646437e82, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Beam_Mode: 0
+    - _Beam_edge_Alpha: 0
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _Distortion_U_Speed: 0
+    - _Distortion_V_Speed: -0.2
+    - _EdgeHardness: 1
+    - _FallOff: 0
+    - _FallOff_Mode: 0
+    - _Fog_Mode: 1
+    - _MainAlphaX: 1
+    - _MainStrength: 1
+    - _Planner_B_Speed: 0
+    - _Planner_G_Speed: 0
+    - _tex_bleach: 0.3215686
+    m_Colors:
+    - _ColorDistort_Inten: {r: 1.5, g: 3, b: 0.1, a: 0.2}
+    - _Tint: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 1}

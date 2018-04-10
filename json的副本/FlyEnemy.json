@@ -1,0 +1,9 @@
+{
+    "SkillList": [
+        {
+            "SkillName": "FlyMonsterAttAttack",
+            "FormulaName": "CombatFormulaNormal",
+            "Arguments": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "SkillList": [
+        {
+            "SkillName": "MonsterAttAttack",
+            "FormulaName": "CombatFormulaNormal",
+            "Arguments": []
+        },
+        {
+            "SkillName": "MonsterSkill1Attack",
+            "FormulaName": "CombatFormulaNormal",
+            "Arguments": []
+        }
+    ]
+}

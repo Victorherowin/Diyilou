@@ -1,0 +1,29 @@
+{
+    "SkillList": [
+        {
+            "SkillName": "BossAtt01",
+            "FormulaName": "CombatFormulaNormal",
+            "Arguments": []
+        },
+        {
+            "SkillName": "BossAtt02",
+            "FormulaName": "CombatFormulaNormal",
+            "Arguments": []
+        },
+        {
+            "SkillName": "BossSkill01",
+            "FormulaName": "CombatFormulaNormal",
+            "Arguments": []
+        },
+        {
+            "SkillName": "BossSkill02",
+            "FormulaName": "CombatFormulaNormal",
+            "Arguments": []
+        },
+        {
+            "SkillName": "BossSkill03",
+            "FormulaName": "CombatFormulaNormal",
+            "Arguments": []
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2229259f8c7be8f4ca50ac8fafa751ae
+timeCreated: 1514379423
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Reeji-CloudSongShu-GBK
+  fontNames:
+  - Reeji-CloudSongShu-GBK
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
